@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**maricio41/maricio41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m a Full Stack Software Engineer. I attended App Academy. I'm looking forward to joining an organizing to grow as a developer and to contribute to ground-breaking projects.
 - 🌱 I’m currently learning Javascript, React.js, Python, Redux.js, CSS, Express, Node.js, Flask-SQLAlchemy
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: maricioharris@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an Army Veteran.
--->
+
